@@ -1,27 +1,11 @@
-body{
-    background-color: black;
-}
-header{
-    background-color: blue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+thead{
+    background-color: blueviolet;
+    color:black;
 }
 table{
-    background-color:rgb(88, 88, 95);
-}
-th{
-    color: white;
-    padding: 5px;
-}
-tbody{
-    background-color: red;
-}
-td{
-    color: white;
-    padding: 5px;
-    margin-left: 5px;
+    background-color:red;
+    color:white;
 }
 tfoot{
-    background-color: green;
+    background-color:green;
 }
